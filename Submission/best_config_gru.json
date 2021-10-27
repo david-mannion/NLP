@@ -1,0 +1,1 @@
+{"hidden_dim": 10, "num_layers": 3, "lr": 0.0025043046232735666, "weight_decay": 0, "amsgrad": false, "batch_size": 128, "epochs": 10, "dropout_rate": 0.2}
